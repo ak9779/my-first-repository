@@ -10,6 +10,10 @@ import javax.persistence.Table;
 @Table(name = "book")
 public class Book {
 
+	
+	
+	//Abhimanyu tera swaggegr lagee sacccy
+	
 	@Id
 	@GeneratedValue(strategy = GenerationType.AUTO)
 	private int id;
